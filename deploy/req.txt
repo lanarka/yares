@@ -1,0 +1,6 @@
+coloredlogs
+bson
+pyyaml
+pygments
+ipaddress 
+shlex
